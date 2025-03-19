@@ -1,4 +1,4 @@
-# TripWithUs Hotels
+# HotelBuddy Hotels
 visit https://bd2-hotel-listing.vercel.app/ and add https://bd-2-5-3-six.vercel.app/ as server URL to view
 > Express: fast, unopinionated, minimalist web framework for Node.js
 
